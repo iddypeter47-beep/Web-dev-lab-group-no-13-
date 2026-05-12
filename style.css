@@ -1,0 +1,31 @@
+ /* style.css */
+
+/* External CSS */
+
+/* Element Selector */
+body {
+    background-color: #f0f8ff;
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    margin: 20px;
+}
+
+/* ID Selector */
+#header {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Class Selector */
+.section {
+    background-color: white;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Element Selector */
+p {
+    color: #333;
+}
